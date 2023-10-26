@@ -1,1 +1,2 @@
 Hi Sophie! Hi Ivy! Hi Lottie! This is a test.
+I am trying to add a bypass for commit messages, I can do this and do this well.
